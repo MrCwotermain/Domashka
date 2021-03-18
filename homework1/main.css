@@ -17,6 +17,21 @@
     background: tomato;
     display: flex;
 }
+
+.small {
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+
+.background1 {
+    background: tomato
+}
+
+.background2 {
+    background: brown
+}
+
 .box3 {
     width: 420px;
     height: 590px;
@@ -28,3 +43,17 @@
     height: 590px;
     background: black;
 }
+.verysmall1{
+    width: 33.3%;
+    height: 100%;
+    background: palevioletred;
+}
+.verysmall2{
+    width: 33.3%;
+    height: 100%;
+    background:green;
+}.verysmall3{
+     width: 33.3%;
+     height: 100%;
+     background: yellow;
+ }
